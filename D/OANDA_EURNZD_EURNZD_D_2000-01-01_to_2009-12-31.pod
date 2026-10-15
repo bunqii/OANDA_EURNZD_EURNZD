@@ -1,0 +1,65 @@
+{
+  "pod_version": "4.0",
+  "instrument": "EUR_NZD",
+  "granularity": "D",
+  "chunk_start": "2000-01-01",
+  "chunk_end": "2009-12-31",
+  "parquet_file": "OANDA_EURNZD_EURNZD_D_2000-01-01_to_2009-12-31.parquet",
+  "data_file": "OANDA_EURNZD_EURNZD_D_2000-01-01_to_2009-12-31.parquet",
+  "row_count": 1876,
+  "first_candle": {
+    "time": 1086037200,
+    "Time": "2004-05-31T21:00:00.000000000Z",
+    "open": 1.9483,
+    "high": 1.9483,
+    "low": 1.9483,
+    "close": 1.9483,
+    "volume": 2
+  },
+  "last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 1.98057,
+    "high": 1.98057,
+    "low": 1.97567,
+    "close": 1.97867,
+    "volume": 7
+  },
+  "csv_file": "OANDA_EURNZD_EURNZD_D_2000-01-01_to_2009-12-31.parquet",
+  "csv_row_count": 1876,
+  "csv_first_candle": {
+    "time": 1086037200,
+    "Time": "2004-05-31T21:00:00.000000000Z",
+    "open": 1.9483,
+    "high": 1.9483,
+    "low": 1.9483,
+    "close": 1.9483,
+    "volume": 2
+  },
+  "csv_last_candle": {
+    "time": 1262296800,
+    "Time": "2009-12-31T22:00:00.000000000Z",
+    "open": 1.98057,
+    "high": 1.98057,
+    "low": 1.97567,
+    "close": 1.97867,
+    "volume": 7
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-15T23:32:53.000000000Z",
+  "generated_at": "2026-10-15T23:32:53.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2,
+    "chunk_api_blocks": 1,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2004-05-31T21:00:00Z",
+        "to": "2018-02-07T21:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
