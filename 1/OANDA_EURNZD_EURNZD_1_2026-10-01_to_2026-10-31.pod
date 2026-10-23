@@ -6,7 +6,7 @@
   "chunk_end": "2026-10-31",
   "parquet_file": "OANDA_EURNZD_EURNZD_1_2026-10-01_to_2026-10-31.parquet",
   "data_file": "OANDA_EURNZD_EURNZD_1_2026-10-01_to_2026-10-31.parquet",
-  "row_count": 21646,
+  "row_count": 23082,
   "first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 99
   },
   "last_candle": {
-    "time": 1792643340,
-    "Time": "2026-10-22T04:29:00.000000000Z",
-    "open": 1.97674,
-    "high": 1.97695,
-    "low": 1.97672,
-    "close": 1.97678,
-    "volume": 62
+    "time": 1792730220,
+    "Time": "2026-10-23T04:37:00.000000000Z",
+    "open": 1.96867,
+    "high": 1.96867,
+    "low": 1.9685,
+    "close": 1.96855,
+    "volume": 67
   },
   "csv_file": "OANDA_EURNZD_EURNZD_1_2026-10-01_to_2026-10-31.parquet",
-  "csv_row_count": 21646,
+  "csv_row_count": 23082,
   "csv_first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 99
   },
   "csv_last_candle": {
-    "time": 1792643340,
-    "Time": "2026-10-22T04:29:00.000000000Z",
-    "open": 1.97674,
-    "high": 1.97695,
-    "low": 1.97672,
-    "close": 1.97678,
-    "volume": 62
+    "time": 1792730220,
+    "Time": "2026-10-23T04:37:00.000000000Z",
+    "open": 1.96867,
+    "high": 1.96867,
+    "low": 1.9685,
+    "close": 1.96855,
+    "volume": 67
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-22T04:30:14.000000000Z",
-  "generated_at": "2026-10-22T04:30:14.000000000Z",
+  "verified_at": "2026-10-23T04:38:31.000000000Z",
+  "generated_at": "2026-10-23T04:38:31.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-21T04:40:00Z",
-        "to": "2026-10-22T04:30:00Z",
+        "from": "2026-10-22T04:24:00Z",
+        "to": "2026-10-23T04:38:00Z",
         "code": 200,
         "msg": "OK"
       }
